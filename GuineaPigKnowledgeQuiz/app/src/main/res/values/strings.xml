@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Guinea Pig Knowledge Quiz</string>
+    <!--Introduction to the quiz-->
+    <string name="intro">Current and future guinea pig owners! Do you know your furry friends well? Here is a quiz to find out if you are/will be a good guinea pig caretaker.</string>
+    <!--Title for Question 1-->
+    <string name="question1Title">Question 1</string>
+    <!--Question 1 being asked-->
+    <string name="question1Text">Are store-bought cages generally a good size to home guinea pigs?</string>
+    <!--Title for Question 2-->
+    <string name="question2Title">Question 2</string>
+    <!--Question 2 being asked-->
+    <string name="question2Text">Which of the following activities should you keep up with your guinea pig? Check all that apply.</string>
+    <!--Title for Question 3-->
+    <string name="question3Title">Question 3</string>
+    <!--Question 3 being asked-->
+    <string name="question3Text">Pregnant and nursing guinea pigs should be fed which kind of hay?</string>
+    <!--Title for Question 4-->
+    <string name="question4Title">Question 4</string>
+    <!--Question 4 being asked-->
+    <string name="question4Text">Type the letter of the vitamin that guinea pigs CANNOT produce on their own:</string>
+    <!--Title for Question 5-->
+    <string name="question5Title">Question 5</string>
+    <!--Question 5 being asked-->
+    <string name="question5Text">Is it safe for guinea pigs to swim?</string>
+    <!--Title for Question 6-->
+    <string name="question6Title">Question 6</string>
+    <!--Question 6 being asked-->
+    <string name="question6Text">Which of the following is good bedding for a guinea pig to use? Check all that apply.</string>
+    <!--Title for Question 7-->
+    <string name="question7Title">Question 7</string>
+    <!--Question 7 being asked-->
+    <string name="question7Text">If a guinea pig closes his/her eyes, what does it mean?</string>
+    <!--Title for Question 8-->
+    <string name="question8Title">Question 8</string>
+    <!--Question 8 being asked-->
+    <string name="question8Text">Generally, how often should a guinea pig receive baths?</string>
+    <!--Notes before submit button at bottom of screen-->
+    <string name="outro">So, how do you think you did? \nIf you get a score of 8, congrats! You should be a great pig caretaker. \nIf you get 5-7 right, good work, but you should look into what answers you got wrong. \nIf you get 4 or less correct, take the time to do some research about these topics to improve your guinea pig's quality of life, or to prepare for the responsibility.</string>
+    <!--Strings I may use in the future-->
+    <string name="yes">Yes</string>
+    <string name="sometimes">Sometimes</string>
+    <string name="no">No</string>
+    <string name="submit">Submit</string>
+    <string name="research">Research</string>
+    <!--Likely one time use strings-->
+    <string name="nailClipping">Nail clipping</string>
+    <string name="teethBrushing">Teeth brushing</string>
+    <string name="floorTime">Floor time</string>
+    <string name="checkingWeight">Checking weight</string>
+    <string name="timothy">Timothy</string>
+    <string name="orchard">Orchard</string>
+    <string name="grassHay">Grass hay</string>
+    <string name="alfalfa">Alfalfa</string>
+    <string name="letter">Letter</string>
+    <string name="cedarBedding">Cedar bedding</string>
+    <string name="fleeceLiners">Fleece liners</string>
+    <string name="paperBedding">Paper bedding</string>
+    <string name="strawLayers">Straw layers</string>
+    <string name="safe">They feel safe</string>
+    <string name="light">The light is too bright</string>
+    <string name="scared">They are scared</string>
+    <string name="thinking">They are thinking</string>
+    <string name="oneMonthly">Once a month</string>
+    <string name="otherMonthly">Every other month</string>
+    <string name="fourSixYear">4-6 times a year</string>
+    <string name="oneTwoYear">1-2 times a year</string>
+
+</resources>
